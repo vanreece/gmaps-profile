@@ -1,0 +1,1 @@
+https://maps.google.com/maps?saddr=Market+St&daddr=37.75398,-122.44735+to:Gaviota+Way&hl=en&sll=37.752462,-122.441082&sspn=0.039564,0.076818&geocode=FYxGQAId-92z-A%3BFXwUQAIdCpqz-Ck1Zs5S_X2PgDFN42_cGAK74A%3BFVbWPwId6paz-A&dirflg=b&mra=dpe&mrsp=1&sz=14&via=1&t=m&z=14&lci=bike
