@@ -1,1 +1,5 @@
 This is the beginnings of a google maps link to elevation profile generator.
+
+The idea behind it is to subdivide a path provided by google maps into sample
+points that fit nicely within a 1/3 arc second grid. That same 1/3 arc second
+grid is available as elevation data from usgs.
